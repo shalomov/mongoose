@@ -1,0 +1,32 @@
+{
+  "name": "njsfirst",
+  "version": "1.0.0",
+  "description": "NodeJS First Homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "Eugene Shalomov",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "lodash": "^4.17.10",
+    "mongoose": "^5.1.2",
+    "passport": "^0.4.0",
+    "passport-local": "^1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shalomov/nodeJS1.git"
+  },
+  "bugs": {
+    "url": "https://github.com/shalomov/nodeJS1/issues"
+  },
+  "homepage": "https://github.com/shalomov/nodeJS1#readme"
+}
